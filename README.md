@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/mnistcnn/main/.github/assets/thumbnail.png" alt="mnistcnn" width="100%">
+</p>
+
 # CNN MNIST Project
 
 A simple CNN for MNIST digit classification, trained from scratch.
